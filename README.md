@@ -24,7 +24,7 @@ If you want to use the texts provided by the [langfiles](https://langfiles.com/)
     </script>
     ```
 5. Use the following attribute for any element whose text you want to be fetched from [langfiles.com](https://langfiles.com/).
-   * **attribute:** ```lf=""`.
+   * **attribute:** `lf=""`.
    * **Import text:** `{{ LF::str('auto_cad') }}`.
    * **Example with h1 element:** 
     ```php
